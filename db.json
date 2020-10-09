@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rubik's cube",
+      "description": "Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTobWl8695FMTt_kXOxn-02J07wXBPPWYsgQA&usqp=CAU",
+      "price": "299"
+    },
+    {
+      "id": 2,
+      "name": "House",
+      "description": "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready.",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1I6fOaKT2gK0jSZFvq6xnFXXaH/Wooden-Toys-Kids-Square-Box-Baby-Early-Educational-Rainbow-Blocks-Creative-Cube-Boxes-Children-Intelligence-Building.jpg",
+      "price": "699"
+    },
+    {
+      "id": 3,
+      "name": "Colors cube",
+      "description": "Most of its text is made up from sections 1.10.32–3 of Cicero's De finibus bonorum et malorum (On the Boundaries of Goods and Evils",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbsH_4vWKWIRDIT5bon3Z1xJce6pV_A76Bxg&usqp=CAU",
+      "price": "399"
+    },
+    {
+      "id": 4,
+      "name": "Rocket",
+      "description": "Cicero famously orated against his political opponent Lucius Sergius Catilina. Occasionally the first Oration against Catiline is taken for type specimens",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0XubyYo-WEeytDcfnCwh5sXB1NpglTgn7rw&usqp=CAU",
+      "price": "499"
+    },
+    {
+      "id": 5,
+      "name": "Colors",
+      "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/714Mtyb3aAL._SY450_.jpg",
+      "price": "599"
+    },
+    {
+      "id": 6,
+      "name": "Teddy kit",
+      "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment",
+      "imageUrl": "https://cdn.fcglcdn.com/brainbees/Images/catlanding/Shop-by-Price-r1.jpg",
+      "price": "699"
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubik's cube",
+        "description": "Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTobWl8695FMTt_kXOxn-02J07wXBPPWYsgQA&usqp=CAU",
+        "price": "299"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "House",
+        "description": "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready.",
+        "imageUrl": "https://ae01.alicdn.com/kf/HTB1I6fOaKT2gK0jSZFvq6xnFXXaH/Wooden-Toys-Kids-Square-Box-Baby-Early-Educational-Rainbow-Blocks-Creative-Cube-Boxes-Children-Intelligence-Building.jpg",
+        "price": "699"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rocket",
+        "description": "Cicero famously orated against his political opponent Lucius Sergius Catilina. Occasionally the first Oration against Catiline is taken for type specimens",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0XubyYo-WEeytDcfnCwh5sXB1NpglTgn7rw&usqp=CAU",
+        "price": "499"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Rocket",
+        "description": "Cicero famously orated against his political opponent Lucius Sergius Catilina. Occasionally the first Oration against Catiline is taken for type specimens",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0XubyYo-WEeytDcfnCwh5sXB1NpglTgn7rw&usqp=CAU",
+        "price": "499"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Colors cube",
+        "description": "Most of its text is made up from sections 1.10.32–3 of Cicero's De finibus bonorum et malorum (On the Boundaries of Goods and Evils",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbsH_4vWKWIRDIT5bon3Z1xJce6pV_A76Bxg&usqp=CAU",
+        "price": "399"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubik's cube",
+        "description": "Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTobWl8695FMTt_kXOxn-02J07wXBPPWYsgQA&usqp=CAU",
+        "price": "299"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "House",
+        "description": "In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content still not being ready.",
+        "imageUrl": "https://ae01.alicdn.com/kf/HTB1I6fOaKT2gK0jSZFvq6xnFXXaH/Wooden-Toys-Kids-Square-Box-Baby-Early-Educational-Rainbow-Blocks-Creative-Cube-Boxes-Children-Intelligence-Building.jpg",
+        "price": "699"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Colors cube",
+        "description": "Most of its text is made up from sections 1.10.32–3 of Cicero's De finibus bonorum et malorum (On the Boundaries of Goods and Evils",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbsH_4vWKWIRDIT5bon3Z1xJce6pV_A76Bxg&usqp=CAU",
+        "price": "399"
+      },
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
